@@ -15,4 +15,11 @@ dependencyResolutionManagement {
 
 rootProject.name = "My Application"
 include(":app")
- 
+include(":core-network")
+include(":core-localsorage")
+include(":core-common")
+include(":core-data")
+include(":coredesign-System")
+include(":core-model")
+include(":core-theme")
+include(":core-navigation")
